@@ -8,7 +8,7 @@ setup(
     version="0.1",
     license="MIT Licence",
  
-    url="https://github.com/yzbxTools/file2data",
+    url="https://github.com/lwyh/spider/tree/local_code/file2data",
     author="lwyh",
     author_email="lwyhnice@gmail.com",
  
